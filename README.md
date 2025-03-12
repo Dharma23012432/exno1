@@ -1,7 +1,6 @@
 # Exno:1
 Data Cleaning Process
-NAME : DHARMALINGAM S
-REG NO: 212223040037
+
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
